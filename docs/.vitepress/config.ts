@@ -4,9 +4,9 @@ export default defineConfig({
   title: 'NStarX Platform - Vue 3 + PrimeVue Stack',
   description: 'Documentation for the NStarX Platform Vue 3 + PrimeVue development stack',
 
-  // GitHub Pages deployment - set to repo name (e.g., '/vue3-stack-docs/')
+  // GitHub Pages deployment - set to repo name
   // Change to '/' if deploying to custom domain or root
-  base: '/vue3-stack-docs/',
+  base: '/nstarx-vue/',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]

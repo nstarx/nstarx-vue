@@ -1,0 +1,17 @@
+{
+  "name": "vue3-stack-docs",
+  "version": "1.0.0",
+  "description": "Vue 3 + PrimeVue Stack Documentation",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["vue3", "primevue", "vite", "pinia"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
